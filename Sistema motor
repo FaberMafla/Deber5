@@ -8,11 +8,10 @@ int pos = 0;
 Servo servo_4;
 String Dato;// variables
  int orden="ACTIVAR";
- int k;
- int vel;
+ 
 
  int m=0;
- int s=0;
+
  
  void setup() {
   pinMode(9,INPUT);
